@@ -1,3 +1,3 @@
 # Hello World!!! - Krista
-# Hello World?? - Aaron
+# Hello World?? - Aaron. Curious how merge conflicts work
 # Is this thing on? - Lorenzo
