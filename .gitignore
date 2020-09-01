@@ -1,0 +1,5 @@
+# Python
+__pycache__
+
+# macOS shenanigans
+.DS_Store
